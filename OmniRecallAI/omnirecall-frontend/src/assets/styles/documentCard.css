@@ -1,0 +1,32 @@
+.document-card {
+  position: relative;
+  cursor: pointer;
+}
+
+.delete-icon {
+  position: absolute;
+
+  right: 12px;
+  bottom: 12px;
+
+  width: 42px;
+  height: 42px;
+
+  border-radius: 50%;
+
+  border: none;
+
+  background: #ef4444;
+
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.delete-icon:hover {
+  background: #dc2626;
+}

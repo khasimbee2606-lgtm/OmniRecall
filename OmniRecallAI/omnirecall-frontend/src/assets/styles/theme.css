@@ -1,0 +1,29 @@
+body {
+  background: #07111f;
+
+  background-image:
+    radial-gradient(circle at top, #13345d 0%, transparent 45%),
+    radial-gradient(circle at bottom right, #0c1f39 0%, transparent 40%);
+
+  color: white;
+
+  font-family: "Poppins", sans-serif;
+
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3b82f6;
+
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b1628;
+}

@@ -1,0 +1,153 @@
+.upload-page {
+  margin-left: 240px;
+  min-height: 100vh;
+  background: #0f172a;
+  color: white;
+}
+
+.upload-container {
+  padding: 30px 40px;
+}
+
+.upload-container h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.upload-container p {
+  font-size: 18px;
+  color: #94a3b8;
+  margin-bottom: 35px;
+}
+
+/* ========================= */
+
+.upload-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+}
+
+/* ========================= */
+
+.upload-box {
+  background: #1e293b;
+  border: 2px dashed #3b82f6;
+  border-radius: 22px;
+  padding: 60px 40px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+
+  transition: 0.3s;
+
+  min-height: 450px;
+}
+
+.upload-box:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 35px rgba(59, 130, 246, 0.25);
+}
+
+.upload-icon {
+  font-size: 70px;
+  margin-bottom: 25px;
+}
+
+.upload-box h2 {
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.upload-box p {
+  font-size: 18px;
+  color: #94a3b8;
+  margin-bottom: 35px;
+}
+
+.upload-button {
+  background: #3b82f6;
+  color: white;
+  padding: 16px 40px;
+  border-radius: 12px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.upload-button:hover {
+  background: #2563eb;
+}
+
+.selected-file {
+  margin-top: 25px;
+  font-size: 15px;
+  color: #cbd5e1;
+  word-break: break-word;
+}
+
+.upload-submit {
+  margin-top: 30px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 15px 35px;
+  border-radius: 12px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.upload-submit:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+/* ========================= */
+/* Responsive */
+/* ========================= */
+
+@media (max-width: 1200px) {
+  .upload-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 800px) {
+  .upload-page {
+    margin-left: 0;
+  }
+
+  .upload-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .upload-container {
+    padding: 20px;
+  }
+
+  .upload-container h1 {
+    font-size: 32px;
+  }
+
+  .upload-box {
+    padding: 40px 20px;
+    min-height: 380px;
+  }
+
+  .upload-box h2 {
+    font-size: 28px;
+  }
+
+  .upload-icon {
+    font-size: 55px;
+  }
+}

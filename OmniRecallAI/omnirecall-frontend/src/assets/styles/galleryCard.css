@@ -1,0 +1,111 @@
+.gallery-card {
+  position: relative;
+
+  width: 100%;
+
+  overflow: hidden;
+
+  border-radius: 18px;
+
+  background: #1f2b3d;
+
+  cursor: pointer;
+
+  transition: 0.35s;
+
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+
+  display: block;
+}
+
+.gallery-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 40px rgba(37, 99, 235, 0.35);
+}
+
+.gallery-thumbnail {
+  position: relative;
+
+  width: 100%;
+
+  aspect-ratio: 1 / 1;
+
+  overflow: hidden;
+  background: #111827;
+}
+
+/*
+  !important here is deliberate: something outside this file
+  (a stale/duplicate rule, likely from HMR or a leftover CSS
+  block) was forcing a fixed height: 220px on .gallery-media,
+  which broke the intended "fill the square thumbnail" sizing.
+  This guarantees the image always fills its parent regardless
+  of where that conflicting rule is coming from.
+*/
+.gallery-thumbnail .gallery-media {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+  transition: transform 0.35s ease !important;
+}
+
+.gallery-card:hover .gallery-media {
+  transform: scale(1.08);
+}
+
+.play-icon {
+  position: absolute;
+
+  inset: 0;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  background: rgba(0, 0, 0, 0.25);
+
+  color: white;
+}
+
+.gallery-delete-icon {
+  position: absolute;
+
+  right: 12px;
+
+  bottom: 12px;
+
+  width: 42px;
+
+  height: 42px;
+
+  border-radius: 50%;
+
+  border: none;
+
+  background: #ef4444;
+
+  color: white;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  cursor: pointer;
+
+  opacity: 0;
+
+  transition: 0.25s;
+}
+
+.gallery-card:hover .gallery-delete-icon {
+  opacity: 1;
+}
+
+.gallery-delete-icon:hover {
+  background: #dc2626;
+}

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "filename": "2.Gen_AI-UNIT-II-M.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\2.Gen_AI-UNIT-II-M.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\2.Gen_AI-UNIT-II-M.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\2.Gen_AI-UNIT-II-M.png",
+        "preview": "generative ai unit  2 generative models for text vlits vadlamudi page 1 unit2 generative models for text language models basics building blocks of language models transformer architecture encoder and decoder attention mechanisms generation of text mo...",
+        "pages": 29,
+        "size": 1.84,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 2,
+        "filename": "Aadhar.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\Aadhar.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\Aadhar.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\Aadhar.png",
+        "preview": "",
+        "pages": 1,
+        "size": 0.02,
+        "document_type": "Other"
+    },
+    {
+        "id": 3,
+        "filename": "AI-UNIT-4.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\AI-UNIT-4.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\AI-UNIT-4.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\AI-UNIT-4.png",
+        "preview": "unitiv syllabus logic concepts first order logic inference in first order logic propositional vs first order inference unification  lifts forward chaining backward chaining resolution learning from observation inductive learning decision trees explan...",
+        "pages": 42,
+        "size": 1.78,
+        "document_type": "Other"
+    },
+    {
+        "id": 4,
+        "filename": "caste certificate.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\caste certificate.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\caste certificate.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\caste certificate.png",
+        "preview": "",
+        "pages": 1,
+        "size": 0.36,
+        "document_type": "Other"
+    },
+    {
+        "id": 5,
+        "filename": "CC- UNIT-3 - M.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\CC- UNIT-3 - M.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\CC- UNIT-3 - M.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\CC- UNIT-3 - M.png",
+        "preview": "cloud computing unit3 virtualization and containers vlits vadlamudi page 1 unit  iii virtualization and containers virtualization allows you to create multiple simulated environments virtual machines or vms from a single physical hardware system befo...",
+        "pages": 31,
+        "size": 1.77,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 6,
+        "filename": "DM Unit-II.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\DM Unit-II.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\DM Unit-II.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\DM Unit-II.png",
+        "preview": "strengthen monitoring of coastal processes and environmental changes enhance community participation in postdisaster decisionmaking unitii manmade disasters and their management 1 introduction to manmade disasters manmade disasters also known as anth...",
+        "pages": 37,
+        "size": 0.43,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 7,
+        "filename": "ESIA UNIT-I.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\ESIA UNIT-I.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\ESIA UNIT-I.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\ESIA UNIT-I.png",
+        "preview": "uniti environmental impact assessment eia is a systematic process to identify predict evaluate and mitigate the environmental social and economic effects of proposed projects before decisions are made environment impact assessment can also be defined...",
+        "pages": 11,
+        "size": 1.14,
+        "document_type": "Other"
+    },
+    {
+        "id": 8,
+        "filename": "HRPM-CSE Material.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\HRPM-CSE Material.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\HRPM-CSE Material.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\HRPM-CSE Material.png",
+        "preview": "1 unit i q1what is human resource management explain scopenature of hrm human resource management hrm it is a process of procuring developing and maintaining competent human resources in the organization hrm is an art of managing people at work in su...",
+        "pages": 92,
+        "size": 2.11,
+        "document_type": "Identity Document"
+    },
+    {
+        "id": 9,
+        "filename": "IOT UNIT - I.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\IOT UNIT - I.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\IOT UNIT - I.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\IOT UNIT - I.png",
+        "preview": "unit1 predecessors of iot  emergence of iot syllabus predecessors of iot introduction wireless sensor networks machinetomachine communications cyber physical systems emergence of iot introduction evolution of iot enabling iot and the complex interdep...",
+        "pages": 19,
+        "size": 0.95,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 10,
+        "filename": "IV YEAR TIME TABLE 26-27 I SEM WEF 01.06.2026.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\IV YEAR TIME TABLE 26-27 I SEM WEF 01.06.2026.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\IV YEAR TIME TABLE 26-27 I SEM WEF 01.06.2026.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\IV YEAR TIME TABLE 26-27 I SEM WEF 01.06.2026.png",
+        "preview": "0800 0850 0940 1000 1050 1140 1230 0120 0210 0850 0940 1000 1050 1140 1230 0120 0210 0300 mon genai iot hrm iot eia tue genai iot dl hrm eia wed eia iot genai dl hrm thu hrm eia genai dl iot fri eia genai dl dl hrm sat hrm iot dl eia genai dl  dr k v...",
+        "pages": 2,
+        "size": 0.05,
+        "document_type": "Other"
+    },
+    {
+        "id": 11,
+        "filename": "LARA+AI.pdf.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\LARA+AI.pdf.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\LARA+AI.pdf.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\LARA+AI.pdf.png",
+        "preview": "1  p a g e a mini project report on laraai intelligent chatbot for student support  query resolution submitted in partial fulfillment of the requirements for the degree of bachelor of technology in computer science and engineering by skbala khasimbee...",
+        "pages": 25,
+        "size": 1.03,
+        "document_type": "Certificate"
+    },
+    {
+        "id": 12,
+        "filename": "ML_UNIT-II.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\ML_UNIT-II.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\ML_UNIT-II.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\ML_UNIT-II.png",
+        "preview": "1 murali krishna b cse deptvlits unitii nearest neighborbased models introduction to proximity measures distance measures nonmetric similarity functions proximity between binary patterns different classification algorithms based on the distance measu...",
+        "pages": 22,
+        "size": 0.69,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 14,
+        "filename": "PROMPT ENGINEERING Lab Manual-M.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\PROMPT ENGINEERING Lab Manual-M.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\PROMPT ENGINEERING Lab Manual-M.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\PROMPT ENGINEERING Lab Manual-M.png",
+        "preview": "iv b tech i sem regulation r23 laboratory manual for the course of prompt engineering lab branch computer science and engineering department of computer science and engineering jawaharlal nehru technological university kakinada kakinada  533 003 andh...",
+        "pages": 65,
+        "size": 0.84,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 15,
+        "filename": "Smart India Hackathon_Circular.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\Smart India Hackathon_Circular.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\Smart India Hackathon_Circular.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\Smart India Hackathon_Circular.png",
+        "preview": "",
+        "pages": 1,
+        "size": 0.5,
+        "document_type": "Other"
+    },
+    {
+        "id": 16,
+        "filename": "SPM UNIT-1 SK.S.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\SPM UNIT-1 SK.S.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\SPM UNIT-1 SK.S.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\SPM UNIT-1 SK.S.png",
+        "preview": "vlits cse sksalma asst prof vlits spm 1 unit  i conventional software management the waterfall model conventional software management performance evolution of software economics software economics pragmatic software cost estimation improving software...",
+        "pages": 27,
+        "size": 2.19,
+        "document_type": "Study Material"
+    },
+    {
+        "id": 17,
+        "filename": "UNIT-I DL.pdf",
+        "path": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\documents\\UNIT-I DL.pdf",
+        "text_file": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\text_data\\UNIT-I DL.txt",
+        "thumbnail": "D:\\OmniRecallAI\\omnirecall-frontend\\Backend\\thumbnails\\UNIT-I DL.png",
+        "preview": "unit i fundamentals of deep learning artificial intelligence history of machine learning probabilistic modeling early neural networks kernel methods decision trees random forests and gradient boosting machines fundamentals of machine learning four br...",
+        "pages": 16,
+        "size": 1.24,
+        "document_type": "Other"
+    }
+]

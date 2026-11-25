@@ -1,0 +1,25 @@
+.gallery-page {
+  margin-left: 240px;
+
+  min-height: 100vh;
+
+  background: #0f172a;
+
+  color: white;
+}
+
+.gallery-container {
+  padding: 25px 35px;
+}
+
+.gallery-title {
+  font-size: 36px;
+
+  margin: 25px 0 10px;
+}
+
+.gallery-subtitle {
+  color: #94a3b8;
+
+  margin-bottom: 30px;
+}

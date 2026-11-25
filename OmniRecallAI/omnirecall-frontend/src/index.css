@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #0f172a;
+  color: white;
+}
+
+.container {
+  display: flex;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background: #3b82f6;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2563eb;
+}
+
+a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+::-webkit-scrollbar {
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3b82f6;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+/* ===========================
+   DARK THEME
+=========================== */
+
+body.dark {
+  background: #0f172a;
+  color: white;
+}
+
+/* ===========================
+   LIGHT THEME
+=========================== */
+
+body.light {
+  background: #f5f7fb;
+  color: #111827;
+}
+
+/* Sidebar */
+
+body.light .sidebar {
+  background: #ffffff;
+  box-shadow: 4px 0 15px rgba(0, 0, 0, 0.1);
+}
+
+body.light .sidebar-logo {
+  color: #111827;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+body.light .sidebar-menu a {
+  color: #374151;
+}
+
+body.light .sidebar-menu a:hover {
+  background: #3b82f6;
+  color: white;
+}
+
+/* Navbar */
+
+body.light .navbar {
+  background: white;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+body.light .navbar h2,
+body.light .nav-links a {
+  color: #111827;
+}
+
+/* Pages */
+
+body.light .dashboard-page,
+body.light .gallery-page,
+body.light .search-page,
+body.light .timeline-page,
+body.light .upload-page,
+body.light .insights-page,
+body.light .settings-page {
+  background: #f5f7fb;
+  color: #111827;
+}
+
+/* Cards */
+
+body.light .dashboard-card,
+body.light .gallery-card,
+body.light .trip-card,
+body.light .setting-card,
+body.light .timeline-card {
+  background: white;
+  color: #111827;
+  border: 1px solid #e5e7eb;
+}
+
+/* Inputs */
+
+body.light input,
+body.light textarea,
+body.light select {
+  background: white;
+  color: #111827;
+  border: 1px solid #d1d5db;
+}
+
+/* Search Bar */
+
+body.light .search-bar {
+  background: white;
+}
+
+body.light .search-bar input {
+  color: #111827;
+}
+
+body.light .search-bar input::placeholder {
+  color: #6b7280;
+}

@@ -1,0 +1,66 @@
+.viewer-overlay {
+  position: fixed;
+  inset: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(0, 0, 0, 0.85);
+
+  z-index: 999999;
+
+  overflow: hidden;
+}
+
+.viewer-content {
+  position: relative;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  max-width: 95vw;
+
+  max-height: 95vh;
+}
+
+.viewer-image {
+  display: block;
+
+  max-width: 95vw;
+
+  max-height: 90vh;
+
+  object-fit: contain;
+
+  border-radius: 12px;
+
+  background: #111;
+}
+
+.close-btn {
+  position: absolute;
+
+  top: -45px;
+
+  right: 0;
+
+  width: 40px;
+
+  height: 40px;
+
+  border: none;
+
+  border-radius: 50%;
+
+  background: #ef4444;
+
+  color: white;
+
+  cursor: pointer;
+
+  font-size: 22px;
+}
